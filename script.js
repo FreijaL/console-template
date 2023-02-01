@@ -5,3 +5,4 @@ console.log(answer)
 
 let x = Number(question('What is your favorite number?'))
 console.log(x)
+
